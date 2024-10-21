@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RidhoAnfaal
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, PHP, JS, HTML, CSS
+- 👀 I’m interested in web dev and java programming
+- 🌱 I’m currently learning Java, PHP, JS, HTML, CSS etc.
 - ✍ I'm still student college in POLINEMA 
 - 📫 How to reach me Instagram : @ridhoanfaal
